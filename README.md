@@ -2,17 +2,17 @@
 
 ## Step 1: Download Necessary Software
 First, you need to download the necessary software. Here are the download links:
-- [Rufus](^1^)
-- [VirtualBox](^4^)
-- [VirtualBox Extension Pack](^6^)
-- [FreeDOS USB Lite boot disk](^18^)
+- [Rufus][^1]
+- [VirtualBox][^4]
+- [VirtualBox Extension Pack][^6]
+- [FreeDOS USB Lite boot disk][^18]
 
 ## Step 2: Create a Windows To Go USB Boot Flash Drive Using Rufus
 1. Launch Rufus.
 2. Select your USB drive from the Device drop-down menu.
-3. Click the Select button next to the Boot Selection field and then select your Windows 10/11 ISO image file[^10^].
+3. Click the Select button next to the Boot Selection field and then select your Windows 10/11 ISO image file[^10].
 4. In the Image option list, choose `Windows To Go`¹¹.
-5. Click the `Start` button to create the bootable USB[^10^].
+5. Click the `Start` button to create the bootable USB[^10].
 
 ## Step 3: Reboot the Windows PC Off of the USB Stick
 1. Connect the bootable USB flash drive to a USB port on your PC.
@@ -87,4 +87,3 @@ Some relevant URLs used to produce this:
 [^31]: How to Boot from USB Drive within Windows 11/10 - The Windows Club. https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows.
 [^32]: How to boot from a USB drive (4 ways) - Digital Citizen. https://www.digitalcitizen.life/boot-your-windows-10-pc-usb-flash-drive/.
 [^33]: 2 Easy Ways to Boot from USB on Windows 11 - UUByte. https://www.uubyte.com/boot-from-usb-on-windows-11-pc.html.
-
