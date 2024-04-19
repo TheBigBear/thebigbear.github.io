@@ -1,6 +1,3 @@
-# thebigbear.github.io
-
-
 # Running SpinRite 6.1 on a UEFI only windows PC
 
 ## Step 1: Download Necessary Software
@@ -30,10 +27,10 @@ First, you need to download the necessary software. Here are the download links:
 3.  Navigate to  `Update & Security`.
 4.  Select  `Recovery`  on the left sidebar.
 5.  On the right panel, locate the  `Advanced startup`  option.
-6.  [Click the  `Restart now`  button](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows)[31](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows).
+6.  [Click the  `Restart now`  button](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows)(^31^)(https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows).
 7.  After your PC restarts, you’ll see a screen with a few options. Choose  `Use a device`.
-8.  [On the next screen, click or tap on the USB drive that you want to boot from](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows)[32](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows).
-9.  [Your computer will now restart and boot from the selected USB drive](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows)[33](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows).
+8.  [On the next screen, click or tap on the USB drive that you want to boot from](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows)(^32^)(https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows).
+9.  [Your computer will now restart and boot from the selected USB drive](https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows)(^33^)(https://www.thewindowsclub.com/how-to-boot-from-usb-drive-within-windows).
 
 ## Step 4: Install VirtualBox and Its Guest Extensions on the Windows To Go USB Boot Drive
 1. Launch the installer for VirtualBox that you downloaded earlier.
