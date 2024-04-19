@@ -51,7 +51,7 @@ First, you need to download the necessary software. Here are the download links:
 9. Click `OK` to close the settings window.
 10. Start the virtual machine and follow the prompts to install FreeDOS²¹.
 
-Please note that this guide assumes you have a Windows 10/11 ISO image file for creating the Windows To Go USB boot flash drive. If you don't have one, you can download it from the official Microsoft website. Also, please be careful when following these steps as incorrect usage can lead to data loss. Be aware that in order for a Virtualbox VM to be able to access a raw physical device Virtualbox needs to be started or run with elevated or admin rights. Always backup your data before making any changes to your system.
+Please note that this guide assumes you have a Windows 10/11 ISO image file for creating the Windows To Go USB boot flash drive. If you don't have one, you can either download it from the official Microsoft website, or the Rufus utility will also allow you to download it direct from Microsoft websites. Also, please be careful when following these steps as incorrect usage can lead to data loss. Be aware that in order for a Virtualbox VM to be able to access a raw physical device Virtualbox needs to be started or run with elevated or admin rights. Always backup your data before making any changes to your system.
 
 Some relevant URLs used to produce this:
 - [^1) Rufus - The Official Website (Download, New Releases). https://rufus.ie/.
