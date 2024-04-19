@@ -1,4 +1,4 @@
-# Running SpinRite 6.1 on a UEFI only windows PC
+# Running SpinRite 6.1 on UEFI only windows PC
 
 ## Step 1: Download Necessary Software
 First, you need to download the necessary software. Here are the download links:
