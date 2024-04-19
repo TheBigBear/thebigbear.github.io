@@ -1,7 +1,7 @@
 # thebigbear.github.io
 
 
-# Running SpinRite 6,1 on a UEFI only windows PC
+# Running SpinRite 6.1 on a UEFI only windows PC
 
 ## Step 1: Download Necessary Software
 First, you need to download the necessary software. Here are the download links:
@@ -91,5 +91,3 @@ Some relevant URLs used to produce this:
 (32) How to boot from a USB drive (4 ways) - Digital Citizen. https://www.digitalcitizen.life/boot-your-windows-10-pc-usb-flash-drive/.
 (33) 2 Easy Ways to Boot from USB on Windows 11 - UUByte. https://www.uubyte.com/boot-from-usb-on-windows-11-pc.html.
 
-
-> Written with [StackEdit](https://stackedit.io/).
