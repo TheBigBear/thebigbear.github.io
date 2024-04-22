@@ -2,7 +2,7 @@
 
 | *Disclaimer:* | 
 |:----|
-| this is a first draft and link references and footnotes are all messed up - so sorry refs like `¹² or [^12] or [^12^] are intermingled and messed up, will have to figure out how to fix my publishing pipeline :blush: 😊 |
+| this is a first draft and link references and footnotes are all messed up - so sorry refs like `¹² or [^12] or [^12^] are intermingled and messed up, will have to figure out how to fix my publishing pipeline 😊 |
 | <sup>Thanks for the feedback Peter Blaise</sup> | 
 
 ## Step 1: Download Necessary Software
