@@ -4,6 +4,8 @@
 |:----|
 | this is a first draft and link references and footnotes are all messed up - so sorry refs like `¹² or [^12] or [^12^] are intermingled and messed up, will have to figure out how to fix my publishing pipeline 😊 |
 | <sup>Thanks for the feedback Peter Blaise</sup> | 
+| *KNOWLEDGE* required !!! You must be comfortable with Administration commands in both the Host OS of choice, as well as DOS and the VirtualBox application. You should NOT blindly follow this guide; you need to understand what the commands are, and why you're doing them. These "How-Tos" will NOT tell you every single thing to click on; there is an assumption that you know your way around a PC. If that's not you, DO NOT attempt this. YOU ARE DOING THIS AT YOUR OWN RISK, AS IT IS AN UNSUPPORTED METHOD TO RUN SPINRITE. |
+
 
 ## 1. Download the latest version of macOS:
 - Go to the [Apple Support page](^27^) and follow the instructions to download the latest macOS that is compatible with your Mac²⁷.
